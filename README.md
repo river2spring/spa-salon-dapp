@@ -65,7 +65,4 @@ Based on the above comparison, I would choose **Scroll** for this dApp. The main
 2. **ZKP Efficiency:** Scroll's design is optimized for ZKPs, which are a core component of the dApp for ensuring privacy.
 3. **Innovative Features:** As a newer blockchain, Scroll is likely to incorporate the latest advancements, providing a more modern and efficient platform for the dApp.
 
-## GitHub Repository
-
-You can find the full implementation and documentation of this dApp in the following GitHub repository: [GitHub Repo Link]
 
